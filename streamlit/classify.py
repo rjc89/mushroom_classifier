@@ -44,4 +44,4 @@ def predict(image):
     #label = decode_predictions(yhat)
     # retrieve the most likely result, e.g. highest probability
     #label = label[0][0]
-    return yhat    #, y_classes 
+    return yhat    
